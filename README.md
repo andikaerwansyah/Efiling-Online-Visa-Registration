@@ -25,4 +25,7 @@ kemudian simpan file sebagai .env
 ```
 php artisan serve
 ```
+
+#Tampilan Landing 
+![alt text](https://github.com/andikaerwansyah/Efiling-Online-Visa-Registration/edit/master/contoh-landing.png)
 # Semoga Bermanfaat - Terimakasih.
