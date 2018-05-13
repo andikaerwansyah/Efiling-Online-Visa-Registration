@@ -26,6 +26,6 @@ kemudian simpan file sebagai .env
 php artisan serve
 ```
 
-#Tampilan Landing 
+# Tampilan Landing 
 ![alt text](./contoh-landing.png)
 # Semoga Bermanfaat - Terimakasih.
