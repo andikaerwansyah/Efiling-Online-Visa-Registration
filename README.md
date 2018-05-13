@@ -27,5 +27,5 @@ php artisan serve
 ```
 
 #Tampilan Landing 
-![alt text](https://github.com/andikaerwansyah/Efiling-Online-Visa-Registration/edit/master/contoh-landing.png)
+![alt text](./contoh-landing.png)
 # Semoga Bermanfaat - Terimakasih.
