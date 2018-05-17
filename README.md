@@ -21,6 +21,10 @@ kemudian simpan file sebagai .env
 # Mejalankan Aplikasi
 1. akses Command Promt / Terminal. 
 2. masuk ke direktori dimana aplikasi berada.
+3. install composer 
+```
+composer install
+```
 3. jalankan server dengan mengetikan 
 ```
 php artisan serve
